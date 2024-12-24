@@ -1,0 +1,16 @@
+header  {
+    color:chocolate;
+    font-family: Cambria;
+    text-align:center;
+}
+body {
+    background-color: rgb(204, 214, 68); 
+}
+main h2 {
+   color:chocolate;
+    font-family: Cambria;
+    text-align:center; 
+}
+footer {
+    background-color: dimgrey;
+}
